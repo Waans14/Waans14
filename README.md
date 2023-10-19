@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Afwan Sutdrajat</h1>
 <h3 align="center">A passionate android developer from indonesia</h3>
-<img src="https://tenor.com/view/coding-gif-24090007" alt="coding" width="400" align="right"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw3zLCAQpOi2lL3_wadYmnq7&ust=1697808981621000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDIk9KsgoIDFQAAAAAdAAAAABAr" alt="coding" width="400" align="right">
 
 - 🌱 I’m currently learning **android development**
 
