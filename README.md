@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Afwan Sutdrajat</h1>
 <h3 align="center">A passionate android developer from indonesia</h3>
-<img align="right" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Holopin Profile" width="400" height="400">
+<img align="right" src="https://media.giphy.com/media/AHcEGB5nuIALBqKWjp/giphy.gif" alt="Holopin Profile" width="200" height="200">
 - 🌱 I’m currently learning **android development**
 
 - 💬 Ask me about **android development**
