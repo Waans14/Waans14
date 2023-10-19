@@ -4,7 +4,7 @@
 <h3 align="center">A passionate android developer from indonesia</h3>
 <p align="right">
   <a href="https://holopin.me/waans14" target="_blank">
-    <img src="https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media" alt="Holopin Profile" width="200">
+    <img src="https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media" alt="Holopin Profile" height="200" width="200" >
   </a>
 </p>
 - 🌱 I’m currently learning **android development**
