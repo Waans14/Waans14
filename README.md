@@ -60,10 +60,10 @@
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
     </a> 
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
+        <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*KKU8hCxeiqQ5GruSdV-HoA.jpeg" alt="laravel" width="40" height="40"/> 
     </a> 
     <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-        <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*KKU8hCxeiqQ5GruSdV-HoA.jpeg" alt="php" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
     </a>
 </p>
 
